@@ -1,0 +1,2 @@
+Hi, created this file in Vi Editor for learing purpose
+Saving and pushing to Github
